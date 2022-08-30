@@ -1,0 +1,14 @@
+.heroFirstSection {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.heroFirstSection article {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.heroFirstSection img {
+  width: 10%;
+}/*# sourceMappingURL=firstsection.css.map */

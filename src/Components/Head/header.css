@@ -1,0 +1,38 @@
+header {
+  background: green;
+  padding: 10vh 5vw 5vh 5vw;
+}
+header .headline {
+  border-bottom: solid 1px #fff;
+  margin: 27px auto 21px;
+  width: 6.5em;
+  height: 1.5em;
+}
+header p {
+  font-size: 0.8em;
+  font-weight: 700;
+}
+header h1 {
+  font-size: 4em;
+  color: #fff;
+}
+header .headerPTag {
+  font-size: 1em;
+  width: 60%;
+  line-height: 2em;
+  margin: 5vh auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+header article {
+  padding: 0.5vh 5vw;
+}
+header .headerSection {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+header .articleBorderLeft {
+  border-left: 1px solid #fff;
+}/*# sourceMappingURL=header.css.map */

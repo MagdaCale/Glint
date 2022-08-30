@@ -1,0 +1,39 @@
+$colorWhite: #fff;
+
+header{
+    background: green;
+    padding: 10vh 5vw 5vh 5vw;
+    .headline{
+        border-bottom: solid 1px #fff;
+        margin: 27px auto 21px;
+        width: 6.5em; height: 1.5em;
+    }
+    p{
+        font-size: 0.8em;
+        font-weight: 700;
+    }
+    h1{
+        font-size: 4em;
+        color: $colorWhite;
+    }
+    .headerPTag{
+        font-size: 1em;
+        width: 60%;
+        line-height: 2em;
+        margin: 5vh auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    article{
+        padding: 0.5vh 5vw;  
+    }
+    .headerSection{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .articleBorderLeft {
+        border-left: 1px solid #fff;
+    }
+}
